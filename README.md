@@ -3,7 +3,7 @@
 # Conda Environment from Udemy Course
 
 This is the `environment.yml` file created as part of the Udemy course  
-**"Complete AI, ML, and Data Science Bootcamp" by [Instructor's Name, if known]**.
+**"Complete AI, ML, and Data Science Bootcamp" by Neagoie/Burke**.
 
 The file defines the Python environment with all the required libraries used throughout the course projects.
 
